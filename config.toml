@@ -1,0 +1,3 @@
+baseURL = 'https://tilmannb-hugo-congo.vercel.app/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
