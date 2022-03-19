@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tilmann.github.io/tilmannb-hugo-congo/sitemap.xml
