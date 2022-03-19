@@ -1,9 +1,9 @@
 ---
-title: "Services"
+title: "Expertise"
 date: 2020-08-14
 draft: false
-description: "Some real-life Congo examples."
-slug: "services"
+description: "Automation software for scale."
+slug: "expertise"
 showDate: false
 showAuthor: false
 showReadingTime: false
