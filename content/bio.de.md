@@ -2,7 +2,7 @@
 title: "Bio"
 date: 2020-08-14
 draft: false
-description: "Tilmanns CV."
+description: "Tilmanns CV"
 slug: "bio"
 showDate: false
 showAuthor: false
@@ -11,5 +11,5 @@ showEdit: false
 ---
 
 {{< lead >}}
-What happened until now
+Was bisher geschah
 {{< /lead >}}
