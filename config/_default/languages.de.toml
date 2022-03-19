@@ -1,13 +1,13 @@
-languageCode = "en-us"
-languageName = "English"
-displayName = "🇺🇸"
-isoCode = "en-EN"
-weight = 1
+languageCode = "de-de"
+languageName = "Deutsch"
+displayName = "🇩🇪"
+isoCode = "de-DE"
+weight = 2
 rtl = false
 
 title = "Tilmann Böhme"
 # logo = "img/logo.jpg"
-description = "Automate your impact."
+description = "Automatisiere deinen Impact."
 copyright = "&copy; 2022 Tilmann Böhme"
 
 dateFormat = "02 January 2006"
@@ -15,8 +15,8 @@ dateFormat = "02 January 2006"
 [author]
 name = "Tilmann Böhme"
 image = "img/tilmann.jpg"
-headline = "Automate your impact!"
-bio = "Tilmann uses automation to scale impact."
+headline = "Automatisiere deinen Impact!"
+bio = "Tilmann nutzt Automation um Impact zu skalieren."
 links = [
   { twitter = "https://twitter.com/tilmannb" },
   { github = "https://github.com/tilmann" },

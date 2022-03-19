@@ -1,10 +1,9 @@
 ---
-title: "Users"
+title: "Services"
 date: 2020-08-14
 draft: false
 description: "Some real-life Congo examples."
-slug: "users"
-tags: ["users", "sample"]
+slug: "services"
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -12,7 +11,7 @@ showEdit: false
 ---
 
 {{< lead >}}
-Real websites that are built with Congo.
+Tilmann is an expert for the following services
 {{< /lead >}}
 
 | Website                                             | Details                      |
@@ -24,5 +23,3 @@ Real websites that are built with Congo.
 | [leif.io](https://leif.io/)                         | Personal site and Tech blog  |
 | [dr460nf1r3.org](https://dr460nf1r3.org/)           | Personal site and Blog       |
 | [OCram85.com](https://ocram85.com)                  | Personal site and Blog       |
-
-**Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users.md).

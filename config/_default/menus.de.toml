@@ -16,12 +16,12 @@ pageRef = "services"
 weight = 10
 
 [[main]]
-name = "Background"
+name = "Hintergrund"
 pageRef = "bio"
 weight = 20
 
 [[main]]
-name = "Let's talk"
+name = "Lass uns sprechen"
 url = "https://tidycal.com/tilmannb/25"
 weight = 100
 
