@@ -11,7 +11,7 @@ showEdit: false
 ---
 
 {{< lead >}}
-Tilmann is an expert for the following services
+Tilmann is Experte für folgende Services:
 {{< /lead >}}
 
 | Website                            | Details      |
