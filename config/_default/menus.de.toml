@@ -36,6 +36,19 @@ weight = 100
 # the copyright notice. Configure as per the main menu above.
 
 # [[footer]]
+# name = "Kontakt"
+# pageRef = "contact"
+
+[[footer]]
+name = "Impressum"
+pageRef = "imprint"
+
+# [[footer]]
+# name = "Privacy"
+# pageRef = "privacy"
+
+
+# [[footer]]
 #   name = "Tags"
 #   pageRef = "tags"
 #   weight = 10
