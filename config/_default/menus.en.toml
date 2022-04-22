@@ -15,14 +15,14 @@ name = "Expertise"
 pageRef = "expertise"
 weight = 10
 
-[[main]]
-name = "Background"
-pageRef = "bio"
-weight = 20
+# [[main]]
+# name = "Background"
+# pageRef = "bio"
+# weight = 20
 
 [[main]]
 name = "Let's talk"
-url = "https://tidycal.com/tilmannb/25"
+url = "talk"
 weight = 100
 
 # [[main]]

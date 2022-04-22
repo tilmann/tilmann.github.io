@@ -15,10 +15,10 @@ name = "Expertise"
 pageRef = "expertise"
 weight = 10
 
-[[main]]
-name = "Hintergrund"
-pageRef = "bio"
-weight = 20
+# [[main]]
+# name = "Hintergrund"
+# pageRef = "bio"
+# weight = 20
 
 [[main]]
 name = "Lass uns sprechen"
