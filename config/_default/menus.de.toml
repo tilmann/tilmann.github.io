@@ -22,7 +22,7 @@ weight = 10
 
 [[main]]
 name = "Lass uns sprechen"
-url = "https://tidycal.com/tilmannb/25"
+pageRef = "talk"
 weight = 100
 
 # [[main]]
