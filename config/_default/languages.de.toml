@@ -7,7 +7,7 @@ rtl = false
 
 title = "Tilmann Böhme"
 # logo = "img/logo.jpg"
-description = "Automatisiere deinen Impact."
+description = "IT-Expertise für die Energiewende."
 copyright = "&copy; 2022 Tilmann Böhme"
 
 dateFormat = "02 January 2006"
@@ -15,8 +15,8 @@ dateFormat = "02 January 2006"
 [author]
 name = "Tilmann Böhme"
 image = "img/tilmann.jpg"
-headline = "Automatisiere deinen Impact!"
-bio = "Tilmann nutzt Automation um Impact zu skalieren."
+headline = "IT-Expertise für die Energiewende."
+bio = "Mit IT-Wissen zur Energiewende."
 links = [
   { twitter = "https://twitter.com/tilmannb" },
   { github = "https://github.com/tilmann" },
